@@ -1,5 +1,4 @@
 <h1 align="center">Olá mundo 👋, meu nome é Karolina Gusmão</h1>
-<h2 align="center">Sobre mim:</h2>
 
 <div>
   <a href="https://github.com/karolinagusmao">

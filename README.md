@@ -43,13 +43,14 @@
   <br>
   <a href="[https://www.buymeacoffee.com/karolinagusmao](https://www.buymeacoffee.com/karolinagusmao)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="karolinagusmao" /></a>
 </p>
+<hr>
 
 <!--<div>
 
   <a href="https://github.com/karolinagusmao">
   <img height="200em" width=390 src="https://github-readme-stats.vercel.app/api?username=karolinagusmao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="200em" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&layout=compact&langs_count=6&theme=midnight-purple"/>
-</div>
+</div> -->
 <!--<div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -60,7 +61,6 @@
   <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div> -->
-<br>
 
  ### 📬 Contacts:
 <div> 

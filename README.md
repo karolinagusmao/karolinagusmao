@@ -25,13 +25,27 @@
   <br>
   📚 I’m currently studying technology and programming languages;
   <br>
+  
 </p>
+
+  <br>
 <img src="https://github.com/karolinagusmao/karolinagusmao/blob/main/header_1.png"  style="max-width: 100%;margin-right: 5px;"/></a>
+
 <hr>
 
 ### 🌟 GitHub Profile Stats:
 
-<div>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=karolinagusmao&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=karolinagusmao&theme=midnight-purple&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="[https://www.buymeacoffee.com/karolinagusmao](https://www.buymeacoffee.com/karolinagusmao)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="karolinagusmao" /></a>
+</p>
+
+<!--<div>
+
   <a href="https://github.com/karolinagusmao">
   <img height="200em" width=390 src="https://github-readme-stats.vercel.app/api?username=karolinagusmao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="200em" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&layout=compact&langs_count=6&theme=midnight-purple"/>
@@ -48,6 +62,14 @@
 </div> -->
 <br>
 
+ ### 📬 Contacts:
+<div> 
+  <a href="https://www.linkedin.com/in/karolinagusmao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/karolbbgusmao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:karolinab2gusmao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br>
+<br>
+  
 ### 👨‍💻 Programming and Markup Languages:
 
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
@@ -65,9 +87,9 @@
 <!-- ![koylin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 )&nbsp; 
-![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; -->
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; 
 
-![]()&nbsp;
+![]()&nbsp; -->
 
 <img src="https://github.com/karolinagusmao/karolinagusmao/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
@@ -100,12 +122,7 @@
 ![githubpages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)&nbsp;
 ![]()&nbsp;
 
-  ### 📬 Contacts:
-<div> 
-  <a href="https://www.linkedin.com/in/karolinagusmao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/karolbbgusmao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:karolinab2gusmao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<br>
+ 
   <hr>
 
 <div>

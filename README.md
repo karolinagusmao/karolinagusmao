@@ -38,6 +38,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=karolinagusmao&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+<!--  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&theme=blue-green)-->
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=karolinagusmao&theme=midnight-purple&hide_border=true&background=FFFFFF00">
   <br>
   <br>
@@ -61,6 +62,9 @@
   <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div> -->
+
+<!-- ##   Here is a random joke that'll make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
  ### 📬 Contacts:
 <div> 

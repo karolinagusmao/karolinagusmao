@@ -8,23 +8,25 @@
 
 
 <p align="center">
-  A little bit of me... 
+  A little bit about me... 
   <br>
   <br>
-  💬 I Speak Portuguese and English;
+  💬 I speak Portuguese and English;
   <br>
   🎓 I graduated in Systems Analysis and Development;
   <br>
-  🎓 Postgraduate in Software Engineering and Project Management, cursing;
+  🎓 Currently pursuing a postgraduate degree in Software Engineering and Project Management;
   <br>
-  🎓 Postgraduate in Information Security, Cybernetics and IT Governance, cursing;
+  🎓 Currently pursuing a postgraduate degree in Information Security, Cybernetics, and IT Governance;
   <br>
-  🎓 MBA in Communication and Digital Marketing, cursing;
+  🎓 Currently pursuing an MBA in Communication and Digital Marketing;
   <br>
-  💻 I love writing code and learn anythings about it;
+  💻 I love writing code and learning anything about it;
   <br>
-  📚 I’m currently studying technology and programming languages;
+  📚 I am currently studying technology and programming languages;
   <br>
+</p>
+
   
 </p>
 

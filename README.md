@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/karolinagusmao/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Systems%20 Analyst%20;FrontEnd%20and%20Backend%20Developer%20;DevOps%20and%20Software%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Systems%20 Analyst%20;FrontEnd%20and%20Backend%20Developer%20;Software%20Engineer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 

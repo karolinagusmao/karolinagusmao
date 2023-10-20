@@ -11,6 +11,8 @@
   A little bit about me... 
   <br>
   <br>
+  📚 Always studying and working to master the technologies I know, I don't know much, but every day I know a little more!
+  <br>
   💬 I speak Portuguese and intermediate English;
   <br>
   🎓 I graduated in Systems Analysis and Development;
@@ -22,8 +24,6 @@
   🎓 Currently pursuing an MBA in Communication and Digital Marketing;
   <br>
   💻 I love writing code and learning anything about it;
-  <br>
-  📚 I am currently studying technology and programming languages;
   <br>
 </p>
 
@@ -108,17 +108,17 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;   
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;  
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![VStudio]( https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp; 
-![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;
 ![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp; 
+<!--![postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;-->
+<!--![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)&nbsp;-->
 
 
 ### ⚡ Database and ☁ Cloud:
@@ -126,13 +126,13 @@
 ![sql](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Azuredev](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
-<!-- ![Azure](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)&nbsp; -->
+![Azure](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)&nbsp; 
 ![Circleci](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![azurems](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-![githubpages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)&nbsp;
-![]()&nbsp;
+<!--![githubpages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)&nbsp;
+![]()&nbsp;-->
 
  
   <hr>
@@ -143,7 +143,7 @@
 </div>
 <hr>
  
-  ![Snake animation](https://github.com/karolinagusmao/karolinagusmao/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/karolinagusmao/karolinagusmao/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--https://dev.to/envoy_/150-badges-for-github-pnk#ide  site dos links icones -->
 

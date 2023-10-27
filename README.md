@@ -1,5 +1,6 @@
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1 align="center">Howdy, I am <a href="https://github.com/Defcon27">Karolina!</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+
+<img src="https://github.com/karolinagusmao/karolinagusmao/blob/main/header_1.png"  style="max-width: 100%;margin-right: 5px;"/></a>
+<h1 align="center">🖖 Howdy, I am <a href="https://github.com/Defcon27">Karolina!</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"> <img align="right" src="https://komarev.com/ghpvc/?username=karolinagusmao&style=flat-square&color=blueviolet"></h1>
 
 <p align="center">
   <a href="https://github.com/karolinagusmao/readme-typing-svg">
@@ -26,30 +27,37 @@
   💻 I love writing code and learning anything about it;
   <br>
 </p>
-
-  
 </p>
-
-  <br>
-<img src="https://github.com/karolinagusmao/karolinagusmao/blob/main/header_1.png"  style="max-width: 100%;margin-right: 5px;"/></a>
-
+<br>
+<h3>📬 Contacts:</h3>
+<div> 
+  <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+  <a href="https://www.linkedin.com/in/karolinagusmao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/karolbbgusmao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/karolbbgusmao"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="mailto:karolinab2gusmao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div> 
 <hr>
 
 ### 🌟 GitHub Profile Stats:
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=karolinagusmao&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+ <!-- <img height="50%" width="auto" src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karolinagusmao&show_icons=true&count_private=true&theme=midnight-purple&layout=compact&hide_border=true&hide=issues,contribs&bg_color=00000000&langs_count=10">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">-->
+  <img height="100%" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karolinagusmao&layout=compact&theme=midnight-purple&count_private=true&langs_count=10" >
+  <p align="center">
+  
+ <img height="50%" width="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karolinagusmao&show_icons=true&theme=midnight-purple&count_private=true" >
 <!--  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&theme=blue-green)-->
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=karolinagusmao&theme=midnight-purple&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=karolinagusmao&theme=midnight-purple&hide_border=true&theme=midnight-purple">
   <br>
   <br>
   <a href="[https://www.buymeacoffee.com/karolinagusmao](https://www.buymeacoffee.com/karolinagusmao)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="karolinagusmao" /></a>
 </p>
+ 
 <hr>
 
 <!--<div>
-
   <a href="https://github.com/karolinagusmao">
   <img height="200em" width=390 src="https://github-readme-stats.vercel.app/api?username=karolinagusmao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="200em" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&layout=compact&langs_count=6&theme=midnight-purple"/>
@@ -64,18 +72,6 @@
   <img align="center" alt="DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div> -->
-
-<!-- ##   Here is a random joke that'll make you laugh!
- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
-
- ### 📬 Contacts:
-<div> 
-  <a href="https://www.linkedin.com/in/karolinagusmao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/karolbbgusmao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/karolbbgusmao"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="mailto:karolinab2gusmao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<br>
-<br>
   
 ### 👨‍💻 Programming and Markup Languages:
 
@@ -100,8 +96,8 @@
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; 
 
 ![]()&nbsp; -->
-
-<img src="https://github.com/karolinagusmao/karolinagusmao/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="./message.gif" width="300px" align="right">
+<!--<img src="https://github.com/karolinagusmao/karolinagusmao/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">-->
 
 ### 💻 Software and 🛠️ Tools:
 
@@ -132,9 +128,7 @@
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![azurems](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 <!--![githubpages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)&nbsp;
-![]()&nbsp;-->
-
- 
+![]()&nbsp;--> 
   <hr>
 
 <div>
@@ -142,9 +136,11 @@
 <h6>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</6>
 </div>
 <hr>
+
+  ##   Here is a random joke that'll make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
  
  <!-- ![Snake animation](https://github.com/karolinagusmao/karolinagusmao/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--https://dev.to/envoy_/150-badges-for-github-pnk#ide  site dos links icones -->
-
 </div>

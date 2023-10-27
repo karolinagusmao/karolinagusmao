@@ -28,7 +28,6 @@
   <br>
 </p>
 </p>
-<br>
 <h3>📬 Contacts:</h3>
 <div> 
   <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">

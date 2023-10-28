@@ -36,7 +36,9 @@
   <a href="https://discord.com/channels/karolbbgusmao"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:karolinab2gusmao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div> 
-<hr>
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+</p>
 
 ### 🌟 GitHub Profile Stats:
 
@@ -54,7 +56,9 @@
   <a href="[https://www.buymeacoffee.com/karolinagusmao](https://www.buymeacoffee.com/karolinagusmao)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="karolinagusmao" /></a>
 </p>
  
-<hr>
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+</p>
 
 <!--<div>
   <a href="https://github.com/karolinagusmao">
@@ -128,14 +132,18 @@
 ![azurems](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 <!--![githubpages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)&nbsp;
 ![]()&nbsp;--> 
-  <hr>
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+</p>
 
 <div>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Karolina's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=karolinagusmao&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&style="max-width: 100%;margin-right: 5px;" /></a>
 <h6>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</6>
 </div>
-<hr>
-
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+</p>
+  
   ##   Here is a random joke that'll make you laugh!
  ![Jokes Card](https://readme-jokes.vercel.app/api)
  

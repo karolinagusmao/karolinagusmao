@@ -102,7 +102,7 @@
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; 
 
 ![]()&nbsp; -->
-<img src="./message.gif" width="300px" align="right">
+<!--<img src="./message.gif" width="300px" align="right">-->
 <!--<img src="https://github.com/karolinagusmao/karolinagusmao/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">-->
 
 ### 💻 Software and 🛠️ Tools:

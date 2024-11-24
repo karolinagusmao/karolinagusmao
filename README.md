@@ -12,7 +12,7 @@
   A little bit about me... 
   <br>
   <br>
-  📚 Always studying and working to master the technologies I know, I don't know much, but every day I know a little more!
+  📚 I’m constantly studying and working to improve my knowledge of technology; while I may not know much, I learn more each day!
   <br>
   💬 I speak Portuguese and intermediate English;
   <br>
@@ -21,8 +21,6 @@
   🎓 Currently pursuing a postgraduate degree in Software Engineering and Project Management;
   <br>
   🎓 Currently pursuing a postgraduate degree in Information Security, Cybernetics, and IT Governance;
-  <br>
-  🎓 Currently pursuing an MBA in Communication and Digital Marketing;
   <br>
   💻 I love writing code and learning anything about it;
   <br>
@@ -55,8 +53,7 @@
 <!--  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagusmao&theme=blue-green)-->
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=karolinagusmao&theme=midnight-purple&hide_border=true&theme=midnight-purple">
   <br>
-  <br>
-  <a href="[https://www.buymeacoffee.com/karolinagusmao](https://www.buymeacoffee.com/karolinagusmao)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="karolinagusmao" /></a>
+ <!-- <a href="[https://www.buymeacoffee.com/karolinagusmao](https://www.buymeacoffee.com/karolinagusmao)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="karolinagusmao" /></a>-->
 </p>
  
 <p align="center">
@@ -127,7 +124,7 @@
 ### ⚡ Database and ☁ Cloud:
 
 ![sql](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+<!--![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;-->
 ![Azure](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)&nbsp; 
 ![Circleci](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;

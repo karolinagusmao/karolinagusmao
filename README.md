@@ -18,9 +18,9 @@
   <br>
   🎓 I graduated in Systems Analysis and Development;
   <br>
-  🎓 Currently pursuing a postgraduate degree in Software Engineering and Project Management;
+  🎓 Postgraduate degree in Information Security, Cybernetics, and IT Governance;
   <br>
-  🎓 Currently pursuing a postgraduate degree in Information Security, Cybernetics, and IT Governance;
+  🎓 Currently pursuing a postgraduate degree in Software Engineering and Project Management;
   <br>
   💻 I love writing code and learning anything about it;
   <br>
